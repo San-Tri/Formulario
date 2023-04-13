@@ -25,5 +25,12 @@
     margin-bottom: 16px;
     border: 1px solid #1f53c5;
     font-family: 'calibri';
-    font-size: 18px;s
+    font-size: 18px;
+}
+.form-register p {
+    text-align: center;
+}
+.form-register a {
+    color: white;
+    text-decoration: none;
 }
